@@ -8,7 +8,6 @@
   <name>SpringBoot2017::Study</name>
   <modules>
     <module>HelloWorld</module>
-    <module>SpringBootProperties</module>
     <module>Restful</module>
     <module>ValidationOverJson</module>
   </modules>
